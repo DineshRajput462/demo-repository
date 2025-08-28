@@ -52,4 +52,4 @@ jobs:
           app-name: 'dotnetcore'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59F7C80CC13C40D5A981D7E62D8B44F4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA76E1E385204AA68A0A375D0D9E4474 }}
